@@ -1,0 +1,16 @@
+{
+  "name": "sharejs-sample-client",
+  "version": "0.1.0",
+  "description": "sample nodejs client, that does things and logs operations",
+  "main": "client.js",
+  "dependencies": {
+    "share": "~0.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node client.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
