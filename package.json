@@ -4,6 +4,7 @@
   "description": "sample nodejs client, that does things and logs operations",
   "main": "client.js",
   "dependencies": {
+    "express": "^4.12.2",
     "share": "~0.6.3"
   },
   "devDependencies": {},
